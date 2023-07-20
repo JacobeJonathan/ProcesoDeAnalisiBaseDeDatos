@@ -1,5 +1,5 @@
 # ProcesoDeAnalisiBaseDeDatos
-##PASOS PARA REALIZAR UN ANALISIS DE DATOS
+## PASOS PARA REALIZAR UN ANALISIS DE DATOS
 ### 1.-Elegimos el proceso o el area de negocio" hecho" :
 	ventas
 	compras
